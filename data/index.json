@@ -1,0 +1,444 @@
+{
+  "tasks": [
+    {
+      "title": "Составьте предложение на английском",
+      "root_sentence": "Он читает книгу",
+      "sentence": "He is reading a book",
+      "fake_words": [
+        "She",
+        "reads",
+        "novel",
+        "is"
+      ]
+    },
+    {
+      "title": "Переведите фразу на английский",
+      "root_sentence": "Мы готовим вкусный обед",
+      "sentence": "We are preparing a delicious lunch",
+      "fake_words": [
+        "They",
+        "cook",
+        "meal",
+        "tasty"
+      ]
+    },
+    {
+      "title": "Напишите предложение на английском",
+      "root_sentence": "Я хочу посетить музей",
+      "sentence": "I want to visit the museum",
+      "fake_words": [
+        "Explore",
+        "gallery",
+        "wish",
+        "I"
+      ]
+    },
+    {
+      "title": "Составьте предложение на английском",
+      "root_sentence": "Она играет на гитаре",
+      "sentence": "She plays the guitar",
+      "fake_words": [
+        "He",
+        "playing",
+        "piano",
+        "music"
+      ]
+    },
+    {
+      "title": "Переведите фразу на английский",
+      "root_sentence": "Мы путешествуем по Европе",
+      "sentence": "We are traveling around Europe",
+      "fake_words": [
+        "They",
+        "journey",
+        "continent",
+        "explore"
+      ]
+    },
+    {
+      "title": "Напишите предложение на английском",
+      "root_sentence": "Я люблю готовить ужин",
+      "sentence": "I love cooking dinner",
+      "fake_words": [
+        "Prepare",
+        "food",
+        "supper",
+        "I"
+      ]
+    },
+    {
+      "title": "Составьте предложение на английском",
+      "root_sentence": "Он занимается спортом каждый день",
+      "sentence": "He exercises every day",
+      "fake_words": [
+        "She",
+        "sports",
+        "activity",
+        "daily"
+      ]
+    },
+    {
+      "title": "Переведите фразу на английский",
+      "root_sentence": "Мы празднуем день рождения",
+      "sentence": "We are celebrating a birthday",
+      "fake_words": [
+        "They",
+        "celebrate",
+        "party",
+        "anniversary"
+      ]
+    },
+    {
+      "title": "Напишите предложение на английском",
+      "root_sentence": "Она учится в университете",
+      "sentence": "She is studying at the university",
+      "fake_words": [
+        "Learn",
+        "college",
+        "education",
+        "she"
+      ]
+    },
+    {
+      "title": "Составьте предложение на английском",
+      "root_sentence": "Он пишет письмо другу",
+      "sentence": "He is writing a letter to a friend",
+      "fake_words": [
+        "She",
+        "write",
+        "message",
+        "friend"
+      ]
+    },
+    {
+      "title": "Переведите фразу на английский",
+      "root_sentence": "Мы исследуем новые технологии",
+      "sentence": "We are exploring new technologies",
+      "fake_words": [
+        "They",
+        "investigate",
+        "innovations",
+        "technology"
+      ]
+    },
+    {
+      "title": "Напишите предложение на английском",
+      "root_sentence": "Я смотрю интересный фильм",
+      "sentence": "I am watching an interesting movie",
+      "fake_words": [
+        "Watch",
+        "TV",
+        "entertainment",
+        "I"
+      ]
+    },
+    {
+      "title": "Составьте предложение на английском",
+      "root_sentence": "Она плавает в бассейне",
+      "sentence": "She swims in the pool",
+      "fake_words": [
+        "He",
+        "swimming",
+        "water",
+        "pool"
+      ]
+    },
+    {
+      "title": "Переведите фразу на английский",
+      "root_sentence": "Мы гуляем в парке",
+      "sentence": "We are walking in the park",
+      "fake_words": [
+        "They",
+        "stroll",
+        "garden",
+        "nature"
+      ]
+    },
+    {
+      "title": "Напишите предложение на английском",
+      "root_sentence": "Он играет в футбол каждую субботу",
+      "sentence": "He plays football every Saturday",
+      "fake_words": [
+        "She",
+        "playing",
+        "soccer",
+        "weekend"
+      ]
+    },
+    {
+      "title": "Составьте предложение на английском",
+      "root_sentence": "Она рисует красивую картину",
+      "sentence": "She is drawing a beautiful picture",
+      "fake_words": [
+        "He",
+        "paint",
+        "artwork",
+        "beautiful"
+      ]
+    },
+    {
+      "title": "Переведите фразу на английский",
+      "root_sentence": "Мы слушаем музыку",
+      "sentence": "We are listening to music",
+      "fake_words": [
+        "They",
+        "hear",
+        "song",
+        "melody"
+      ]
+    },
+    {
+      "title": "Напишите предложение на английском",
+      "root_sentence": "Я пеку вкусные пироги",
+      "sentence": "I am baking delicious pies",
+      "fake_words": [
+        "Bake",
+        "cakes",
+        "pastries",
+        "I"
+      ]
+    },
+    {
+      "title": "Составьте предложение на английском",
+      "root_sentence": "Он учится играть на гитаре",
+      "sentence": "He is learning to play the guitar",
+      "fake_words": [
+        "She",
+        "studying",
+        "music",
+        "instrument"
+      ]
+    },
+    {
+      "title": "Переведите фразу на английский",
+      "root_sentence": "Мы планируем поход в горы",
+      "sentence": "We are planning a hiking trip to the mountains",
+      "fake_words": [
+        "They",
+        "arrange",
+        "mountain",
+        "adventure"
+      ]
+    },
+    {
+      "title": "Составьте предложение на английском",
+      "root_sentence": "Он читает книгу",
+      "sentence": "He is reading a book",
+      "fake_words": [
+        "She",
+        "reads",
+        "novel",
+        "is"
+      ]
+    },
+    {
+      "title": "Переведите фразу на английский",
+      "root_sentence": "Мы готовим вкусный обед",
+      "sentence": "We are preparing a delicious lunch",
+      "fake_words": [
+        "They",
+        "cook",
+        "meal",
+        "tasty"
+      ]
+    },
+    {
+      "title": "Напишите предложение на английском",
+      "root_sentence": "Я хочу посетить музей",
+      "sentence": "I want to visit the museum",
+      "fake_words": [
+        "Explore",
+        "gallery",
+        "wish",
+        "I"
+      ]
+    },
+    {
+      "title": "Составьте предложение на английском",
+      "root_sentence": "Она играет на гитаре",
+      "sentence": "She plays the guitar",
+      "fake_words": [
+        "He",
+        "playing",
+        "piano",
+        "music"
+      ]
+    },
+    {
+      "title": "Переведите фразу на английский",
+      "root_sentence": "Мы путешествуем по Европе",
+      "sentence": "We are traveling around Europe",
+      "fake_words": [
+        "They",
+        "journey",
+        "continent",
+        "explore"
+      ]
+    },
+    {
+      "title": "Напишите предложение на английском",
+      "root_sentence": "Я люблю готовить ужин",
+      "sentence": "I love cooking dinner",
+      "fake_words": [
+        "Prepare",
+        "food",
+        "supper",
+        "I"
+      ]
+    },
+    {
+      "title": "Составьте предложение на английском",
+      "root_sentence": "Он занимается спортом каждый день",
+      "sentence": "He exercises every day",
+      "fake_words": [
+        "She",
+        "sports",
+        "activity",
+        "daily"
+      ]
+    },
+    {
+      "title": "Переведите фразу на английский",
+      "root_sentence": "Мы празднуем день рождения",
+      "sentence": "We are celebrating a birthday",
+      "fake_words": [
+        "They",
+        "celebrate",
+        "party",
+        "anniversary"
+      ]
+    },
+    {
+      "title": "Напишите предложение на английском",
+      "root_sentence": "Она учится в университете",
+      "sentence": "She is studying at the university",
+      "fake_words": [
+        "Learn",
+        "college",
+        "education",
+        "she"
+      ]
+    },
+    {
+      "title": "Составьте предложение на английском",
+      "root_sentence": "Он пишет письмо другу",
+      "sentence": "He is writing a letter to a friend",
+      "fake_words": [
+        "She",
+        "write",
+        "message",
+        "friend"
+      ]
+    },
+    {
+      "title": "Переведите фразу на английский",
+      "root_sentence": "Мы исследуем новые технологии",
+      "sentence": "We are exploring new technologies",
+      "fake_words": [
+        "They",
+        "investigate",
+        "innovations",
+        "technology"
+      ]
+    },
+    {
+      "title": "Напишите предложение на английском",
+      "root_sentence": "Я смотрю интересный фильм",
+      "sentence": "I am watching an interesting movie",
+      "fake_words": [
+        "Watch",
+        "TV",
+        "entertainment",
+        "I"
+      ]
+    },
+    {
+      "title": "Составьте предложение на английском",
+      "root_sentence": "Она плавает в бассейне",
+      "sentence": "She swims in the pool",
+      "fake_words": [
+        "He",
+        "swimming",
+        "water",
+        "pool"
+      ]
+    },
+    {
+      "title": "Переведите фразу на английский",
+      "root_sentence": "Мы гуляем в парке",
+      "sentence": "We are walking in the park",
+      "fake_words": [
+        "They",
+        "stroll",
+        "garden",
+        "nature"
+      ]
+    },
+    {
+      "title": "Напишите предложение на английском",
+      "root_sentence": "Он играет в футбол каждую субботу",
+      "sentence": "He plays football every Saturday",
+      "fake_words": [
+        "She",
+        "playing",
+        "soccer",
+        "weekend"
+      ]
+    },
+    {
+      "title": "Составьте предложение на английском",
+      "root_sentence": "Она рисует красивую картину",
+      "sentence": "She is drawing a beautiful picture",
+      "fake_words": [
+        "He",
+        "paint",
+        "artwork",
+        "beautiful"
+      ]
+    },
+    {
+      "title": "Переведите фразу на английский",
+      "root_sentence": "Мы слушаем музыку",
+      "sentence": "We are listening to music",
+      "fake_words": [
+        "They",
+        "hear",
+        "song",
+        "melody"
+      ]
+    },
+    {
+      "title": "Напишите предложение на английском",
+      "root_sentence": "Я пеку вкусные пироги",
+      "sentence": "I am baking delicious pies",
+      "fake_words": [
+        "Bake",
+        "cakes",
+        "pastries",
+        "I"
+      ]
+    },
+    {
+      "title": "Составьте предложение на английском",
+      "root_sentence": "Он учится играть на гитаре",
+      "sentence": "He is learning to play the guitar",
+      "fake_words": [
+        "She",
+        "studying",
+        "music",
+        "instrument"
+      ]
+    },
+    {
+      "title": "Переведите фразу на английский",
+      "root_sentence": "Мы планируем поход в горы",
+      "sentence": "We are planning a hiking trip to the mountains",
+      "fake_words": [
+        "They",
+        "arrange",
+        "mountain",
+        "adventure"
+      ]
+    }
+  ]
+}

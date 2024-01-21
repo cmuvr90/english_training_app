@@ -1,13 +1,20 @@
-import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+import {StyleSheet} from 'react-native';
+import data from './data/index.json';
+import Page from "./components/Page";
+import Task from "./components/Task";
+import {useState} from "react";
 
 export default function App() {
-  return (
-    <View style={styles.container}>
-      <Text>Open up App.js to start working on your app!</Text>
-      <StatusBar style="auto" />
-    </View>
-  );
+
+  const [index, setIndex] = useState(0)
+
+  const onNext = () => {
+    setIndex(v => v + 1 > data.tasks.length ? 0 : v + 1);
+  }
+
+  return <Page backgroundColor={'#e5b3f5'}>
+    <Task task={data.tasks[index]} onNext={onNext}/>
+  </Page>;
 }
 
 const styles = StyleSheet.create({
